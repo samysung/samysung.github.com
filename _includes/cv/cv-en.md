@@ -1,0 +1,123 @@
+---
+layout:     post
+title:      "CV-EN"
+subtitle:   "my resume, english version"
+author:     "samy khelifi"
+header:
+---
+<span class="sam-cv-name">
+####**Samy KHELIFI**  
+</span>
+<span class="sam-cv-title">
+####**SOFTWARE ENGINEER**
+</span>
+
+####**PROFESSIONAL SKILLS**  
+**Programming Languages:** Java, Python, JavaScript and PHP.
+**Framework:** Symfony, Angular, Django.  **OS:** Linux. **Versioning:** Git.
+**OLPT, OLAP:** Business Object BOXI, MYSQL, Oracle 11g, XML/Json, MongoDB.
+**Data science:** Python Pandas/SKLearn, Clustering, Classification, Reduction, Regression.
+
+####**WORK EXPERIENCE**  
+
+<table class="sam-cv-arr">
+<tbody>
+  <tr>
+    <td>August 2015-Mar 2017
+18 months
+</td>
+    <td> WEB developer at SCIENCES PO
+       <ul>
+         <li> Contribution in different projects of the socio-polical research center, concerning mostly the interoperability with the existing dataflow system (collecting, extracting, data-mining).
+        </li>
+        <li>	Technical Contributor to the creation of a scientific corpus of data aiming to be exploited by researcher in social science.</li>
+        <li>Stack: Python, Javascript (angular, bootstrap), Git, PostGreSQL.</li>
+     </td>
+   </tr>
+  <tr>
+    <td>Mai 2013-April 2015 2 years</td>
+    <td>Business Analyst, SNCF, head of market treasury
+     <ul>
+       <li>Change management: technical support, business requirement,
+       User Acceptance Testing.</li>
+         <li>BUSINESS OBJECTS and PL-SQL development.
+         Task automating in VB for the dataflow servers, and in java for the
+         BOXI servers.
+         </li>
+         <li>Technical Stack: BOXI, VB, PS-SQL.</li>
+     </td>
+
+<tr>
+  <td>Feb 2011-Feb 20132 years</td>
+  <td>WEB developer, IDMWEB, Web Agency
+    <ul>
+      <li>Backend and frontend development for B2C web company and
+      French group internal website. </li>
+      <li>Unit Testing.</li>
+      <li>Stack: PHP (SYMFONY), JavaScript (jquery), bash, MySQL.</li>  
+  </td>
+
+<tr>
+  <td>Oct 2010-Feb 2011</td>
+  <td>Internship in web development, IDMWEB</td>
+
+<tr>
+  <td>2007-2009 2 years</td>
+  <td>Vinyl record seller (entrepreneur). PS: MySQL database creation.</td>
+</tr>
+<tr>
+   <td>Mai 2004-Mai 2007 4 years </td>
+   <td>Office boy, ALLEZ & ASSOCIES (notary), PARIS. PS: ACCESS database
+	administration.</td>
+</tr>
+</tbody>
+</table>
+####**EDUCATION**
+<table class="sam-cv-arr">
+<tbody>
+<tr>
+  <td>MOOC (2015-now)	   </td>
+  <td>Machine learning, Scala et MINING MASSIVE DATASETS from
+COURSERA, WEB SEMANTIC from FUN.</td>
+<tr>
+  <td>2012-pending </td>
+  <td>Currently in final year in Engineering studies (MSc) in
+   The CNAM engineering school Paris (computer science field
+   With a major in system modeling, optimization)     
+</tr>
+<tr>
+  <td>2010-2011</td>
+  <td>Two-year degree in Computer Science, AFPA, Paris.</td>
+</tr>
+<tr>
+  <td>2000-2001</td>
+  <td>	One-year degree in Computer Science, université Denis DIDEROT,
+  PARIS.</td>
+</tr>
+<tr>
+  <td>1998-99</td>
+  <td>Baccalauréat, major in sciences (math specialization), Lycée Paul
+  Valéry PARIS.</td>
+</tr>
+</tbody>
+</table>
+####**LANGUAGES**
+French: native tongue.
+English: fluent.
+####**PERSONAL INTERESTS**
+Cultural: piano, vinyl collector, short movie director.
+Sport: tennis, running, scuba diving.
+####**COMPETITIONS/CHALLENGE**
+<table>
+  <tbody>
+  <tr>
+    <td>2016</td>
+    <td>ANAP-ATIH 2020 Competition, datascience.net.</td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>2 Kaggle competitions: challenge Expedia and Facebook.</td>
+</tr>
+
+</tbody>
+</table>

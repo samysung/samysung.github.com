@@ -1,0 +1,118 @@
+---
+layout:     post
+title:      "CV"
+subtitle:   "mon CV en français"
+date:       2017-07-28 12:00:00
+author:     "samy khelifi"
+header: 
+---
+<span class="sam-cv-name">
+####**Samy KHELIFI**  
+</span>
+<span class="sam-cv-title">
+####**INGENIEUR DEVELOPPEMENT**
+</span>
+
+####**COMPETENCES**  
+**Langages:** confirmé (Java, Python, Javascript, php), formé (Scala).  
+**Framework:** Symfony, Angular, Django. **Versioning:** Git. **OS:** Linux.  
+**SI (OLAP/OLTP):** MySQL/PostGreSQL, Oracle 11g, XML/Json, SAP BOXI, MongoDB.  
+**Formation Data science:** Pandas/SK-Learn, Clustering, Classification, Réduction, Régression.
+
+####**EXPERIENCE PROFESSIONNELLE**  
+
+<table class="sam-cv-arr">
+<tbody>
+  <tr>
+    <td>08/2015-03/2017   18 mois</td>
+    <td> Développeur WEB chez SCIENCES PO
+       <ul>
+         <li> contribution à différents projets du Centre de Données
+        Socio‐Politiques, notamment des projets d'intéropérabilité avec les
+        dispositifs existant de diffusion de données en sciences humaines et
+        sociale concernant la collecte, l’extraction et le traitement de
+        données. 
+        </li>
+        <li> participation à la création de corpus de données
+        scientifiques et à leur exploitation par des chercheurs.</li>
+        <li>Stack: Python, Javascript (Angular, Bootstrap), PostGreSQL.  </li>
+     </td>
+   </tr>
+  <tr>
+    <td>05/2013-04/2015 2 ans</td>
+    <td>Pilotage de flux MOA finance au sein de la direction des opérations financières (activités salle des marchés) du groupe SNCF
+     <ul>
+       <li>Suivi de production (support technico-fonctionnel, analyse des       
+         besoins, suivi de projet avec la DSI et les consultants externes,   
+         recette utilisateur).</li>
+         <li>Développement BUSINESS OBJECTS et PL-SQL. Automatisation 
+         de taches en VB pour le serveur de flux de données, et java pour les 
+         serveurs BOXI.</li>
+         <li>Stack: BOXI (+ un peu de java), VB, PL-SQL.</li>
+     </td>
+
+<tr><td>02/2011-02/2013  2 ans</td>
+<td>	Développeur PHP WEB chez IDMWEB (agence WEB)
+  <ul>
+    <li>Développement de sites e-commerce et intranet   
+    institutionnels</li>
+    <li>Stack: PHP (SYMFONY), Javascript (jquery), BASH, MySQL.</li></td>
+
+<tr><td>10/2010-02/2011</td>	<td>Stage de fin d’étude bac+2 chez IDMWEB (reconversion dans l’informatique)	</td>
+
+<tr><td>05/2004-09/2009 </td>
+	<td>Expériences antérieures à ma reconversion pro:   
+	Responsable des services généraux d’une grande étude de notaire, 
+	puis Auto-Entrepreneur dans le disque vinyle.	</td>
+</tr>
+</tbody>
+</table>
+####**FORMATION**
+<table class="sam-cv-arr">
+<tbody>
+<tr>
+  <td>Formation continue	   </td>
+  <td>MOOC: Machine learning, Scala et MINING MASSIVE   
+   DATASETS sur COURSERA,  WEB SEMANTIQUE de l’INRIA sur FUN.</td>
+<tr>
+  <td>2012-en cours</td>
+  <td>Dernière année Diplôme d’ingénieur EICNAM (toutes les UE   
+  obtenues, reste le mémoire), spécialité informatique, option modélisation      
+</tr>
+<tr>
+  <td>2011	</td> 
+  <td>Diplôme DEVELOPPEUR LOGICIEL, titre RNCP niveau III (120    
+  crédits,bac+2) à L’AFPA (formation de reconversion)</td>
+</tr>
+<tr>
+  <td>2001</td>
+  <td>	Deug MIAS 1ère année, université Paris Denis DIDEROT
+  1999	Bac Général Scientifique (Lycée Paul Valéry PARIS 12)</td>
+</tr>
+</tbody>
+</table>
+####**LANGUES / CENTRE D’INTERETS**
+Français: langue maternelle, Anglais: professionnel. 
+Hobbies culturel: littérature américaine et Balzac, réalisation de court métrages, piano, collectionneur de disques, Sports: beaucoup de tennis, running, de la plongée quand je peux.
+
+####**COMPETITIONS/CHALLENGE**
+<table>
+  <tbody>
+  <tr>
+    <td>2016</td>
+    <td>Participation à la compétition datascience.net  ANAP-ATIH
+    2020</td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Participation à 2 compétitions Kaggle : challenge Expedia et
+  challenge Facebook.</td>
+</tr>
+<tr>
+  <td>2015</td>
+  <td>	Etude du système NOSQL Cassandra dans le contexte du
+  stockage de séries temporelles.	</td>
+</tr>
+</tbody>
+</table>
+

@@ -1,0 +1,26 @@
+# Site settings
+title: B.O.T (Blog Orienté Technique)
+header-img:
+email:
+copyright_name: samy khelifi
+description: "Pour l'instant c'est en ligne et c'est déjà pas mal ;).
+<br>Blog qui a vocation à parler de dév web, data, intelligence artificielle...."
+baseurl: ""
+url: "https://samysung.github.io/"
+twitter_username:
+github_username:  samysung
+facebook_username:
+email_username:  samy.khelifi.richards@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+plugins: [jekyll-paginate, jekyll-feed]
